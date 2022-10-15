@@ -1,0 +1,3 @@
+﻿  DebtorC++Project.cpp
+C:\Users\User\Desktop\Debtor Bank\DebtorC++Project\DebtorC++Project\DebtorC++Project.cpp(192,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DebtorC++Project.vcxproj -> C:\Users\User\Desktop\Debtor Bank\DebtorC++Project\x64\Debug\DebtorC++Project.exe
